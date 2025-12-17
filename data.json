@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "THE CAKE STALL BANANA BREAD 5PK/500G",
+        "price": "$4.49"
+    },
+    {
+        "id": 2,
+        "name": "THE CAKE STALL FRUIT LOAF 5PK/500G",
+        "price": "$4.49"
+    },
+    {
+        "id": 3,
+        "name": "THE CAKE STALL PUMPKIN BREAD 5PK/500G",
+        "price": "$4.49"
+    },
+    {
+        "id": 4,
+        "name": "WATTIE'S PEACHES IN JUICE 410G",
+        "price": "$2.20"
+    },
+    {
+        "id": 5,
+        "name": "WATTIE'S PEARS IN JUICE 410G",
+        "price": "$2.20"
+    }
+]
